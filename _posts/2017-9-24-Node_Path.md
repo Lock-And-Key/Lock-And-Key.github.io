@@ -12,6 +12,8 @@ tag: node
 - 绝对路径：F:/xxx/xxx.js 或 /xxx/xxx.js 或 /xxx/xxx。
 
 
+![image]( Lock-And-Key.github.io/images/posts/Node-Path/07131745-f8df335fb6d2424cbaf997109a647dcd.jpg )
+
 
 ```
 1 require('module_1_1.js');
