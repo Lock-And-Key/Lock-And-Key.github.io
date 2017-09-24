@@ -12,7 +12,7 @@ tag: node
 - 绝对路径：F:/xxx/xxx.js 或 /xxx/xxx.js 或 /xxx/xxx。
 
 
-![image]( Lock-And-Key.github.io/images/posts/Node-Path/07131745-f8df335fb6d2424cbaf997109a647dcd.jpg )
+![Aaron Swartz](https://raw.githubusercontent.com/smshen/MarkdownPhotos/master/Res/test.jpg))
 
 
 ```
